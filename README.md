@@ -1,4 +1,4 @@
-# Python-OpenCV_smile_caoture
+# Python-OpenCV_smile_capture
 Python+OpenCVにてWebcamの映像をキャプチャし笑顔を認識した時に指定したフォルダに画面キャプチャしたpngデータを生成するプログラムです。
 ※大量のpngデータが生成されるのでご注意ください。
 
